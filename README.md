@@ -7,7 +7,6 @@
 <h4 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%90%8D+Young+Python+Developer+%F0%9F%90%8D" alt="Typing SVG" /></h4>
 <h8 align="right">
 <hr>
-𝐌𝐲 𝐜𝐨𝐧𝐭𝐚𝐜𝐭𝐬:
 </h8>
 <h12 align="left">💬 Contact with me on TG: @tapp41k 💓</h12>
 
