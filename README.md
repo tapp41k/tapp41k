@@ -4,16 +4,16 @@
 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
 <hr>
 </h3>
-<h4 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%90%8D+Young+Python+Developer+%F0%9F%90%8D" alt="Typing SVG" /></h4>
-<h5>𝕊𝕜𝕚𝕝𝕝𝕤:</h5>
-<h6>
+<h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%90%8D+Young+Python+Developer+%F0%9F%90%8D" alt="Typing SVG" /></h3>
+<h3>𝕊𝕜𝕚𝕝𝕝𝕤:</h3>
+<h4>
   📗Django <br />
   💉SQLite
-</h6>
-<h8 align="right">
+</h4>
+<h4 align="right">
 <hr>
-</h8>
-<h12 align="left">💬 Contact with me on TG: @tapp41k 💓</h12>
+</h4>
+<h3 align="left">💬 Contact with me on TG: @tapp41k 💓</h3>
 
 <!---
 tapp41k/tapp41k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
