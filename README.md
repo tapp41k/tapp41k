@@ -1,7 +1,5 @@
 <h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝕥𝕒𝕡𝕡𝟜𝟙𝕜</h1>
-<p class="aligncenter">
-    <img src="https://github.com/tapp41k/tapp41k/blob/main/smoke.gif"/>
-</p>
+<img src="https://github.com/tapp41k/tapp41k/blob/main/smoke.gif" width="1000">
 <h3 align="center">
 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
