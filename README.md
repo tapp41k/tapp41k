@@ -20,14 +20,6 @@
   <li>🎀html/css/js - basic level</li>
   <li>🛠️Linux </li>
 </ul>
-<div>
-<h3>About me</h3>
-<ul>
-    <li>qwe</li>
-    <li>qwe</li>
-    <li>qwe</li>
-</ul>
-</div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <h3 align="center">💬 Contact with me on TG: @tapp41k 💓</h3>
 
