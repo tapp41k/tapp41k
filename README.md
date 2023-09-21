@@ -1,6 +1,3 @@
-<head>
-<link rel='stylesheet' href='style.css'>
-</head>
 <h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝕥𝕒𝕡𝕡𝟜𝟙𝕜</h1>
 <img src="https://github.com/tapp41k/tapp41k/blob/main/smoke.gif" width="1000">
 <h3 align="center">
